@@ -35,9 +35,10 @@ My yoga app allows users to practice yoga and mudras for meditation at their con
 ### :four: Output
 <p align=center>
 
-<img src = "https://github.com/thilaknrai/Yoga-Description-App/assets/130270049/53a6a3d7-ca1c-4b05-b34c-cf8319d33aa9" width =200 height =555>
+<img src = "https://github.com/thilaknrai/Yoga-Description-App/assets/130270049/53a6a3d7-ca1c-4b05-b34c-cf8319d33aa9" width =200 height =400>
 <img src = "https://github.com/thilaknrai/Yoga-Description-App/assets/130270049/b130985e-a8f5-4bca-9783-11f032272610" width =200 height =400>
 <img src = "https://github.com/thilaknrai/Yoga-Description-App/assets/130270049/ec0319f7-cf06-4483-9638-6aab434c05ef" width =200 height =400>
+<img src = "https://github.com/thilaknrai/Yoga-Description-App/assets/130270049/f2fffb48-1096-471a-a7c9-900ea80d1e0f" width =200 height =400>
 <img src = "https://github.com/thilaknrai/Yoga-Description-App/assets/130270049/cfd7c9d3-1202-4646-8cd7-807eb01cdec3" width =200 height =400>
 <img src = "https://github.com/thilaknrai/Yoga-Description-App/assets/130270049/069ff7c6-6136-453f-b1e0-a9d054859237" width =200 height =400>
 <img src = "https://github.com/thilaknrai/Yoga-Description-App/assets/130270049/f79007d2-d647-4a5b-9c2b-b4fa90e74205" width =200 height =400>
