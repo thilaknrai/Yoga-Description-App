@@ -3,7 +3,7 @@
 The 'Yoga Description App' combines Java and Firebase to offer users information on yoga poses and mudras.
 
 ### :one: Introduction
-My yoga app allows users to practice yoga and mudras for meditation at their convenience, without the need for physical sessions, empowering them to incorporate these practices into their daily routines seamlessly.
+My Yoga App allows users to practice yoga and mudras for meditation at their convenience, without the need for physical sessions, empowering them to incorporate these practices into their daily routines seamlessly.
 
 ### :two: Prerequisites
 ➡ HARDWARE REQUIREMENTS <br>
@@ -44,3 +44,13 @@ My yoga app allows users to practice yoga and mudras for meditation at their con
 <img src = "https://github.com/thilaknrai/Yoga-Description-App/assets/130270049/f79007d2-d647-4a5b-9c2b-b4fa90e74205" width =200 height =400>
 <img src = "https://github.com/thilaknrai/Yoga-Description-App/assets/130270049/b507c4a0-c942-43c3-9309-514f12ec76c8" width =200 height =400>
 <img src = "https://github.com/thilaknrai/Yoga-Description-App/assets/130270049/2c105953-67bb-48f3-af4c-3bba9cb424ee" width =200 height =400>
+<img src = "https://github.com/thilaknrai/Yoga-Description-App/assets/130270049/663c33f1-ec95-42e9-b393-15e18c408cc9" width =200 height =400>
+
+
+
+
+
+
+
+
+
